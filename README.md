@@ -34,7 +34,9 @@ date: 2022.04.25
 > Back: Python,Django
 
 ---
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/100202039/167241822-a1b7a375-05be-4aa3-ab3d-a53bb4c19158.gif)
 
+---
 ## 🍻 개인 작업 내용
 1. Footer 작업 - 아이콘 메뉴에 링크 설정
 2. Nav 드롭다운 메뉴 구현 및 링크 설정
