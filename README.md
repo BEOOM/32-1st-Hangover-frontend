@@ -66,7 +66,7 @@ CSS를 적용할 때 항상 어떻게 복합적으로 다르게 적용할 수 �
 
 <img src="https://velog.velcdn.com/images/beom_pie/post/15b1da65-2ec3-4960-8e50-80fdcdd2427f/image.png" width="800" height="600">
 
-<img src="https://velog.velcdn.com/images/beom_pie/post/bd83f224-ca9d-4679-9943-2ba32a59ba98/image.png" width="800" height="800">
+<img src="https://velog.velcdn.com/images/beom_pie/post/bd83f224-ca9d-4679-9943-2ba32a59ba98/image.png" width="800" height="1000">
 
 Nav바에서 클릭 시 드롭다운 메뉴가 생성되며 이벤트로 상승하는 효과를 주는 CSS를 적용하였습니다
 
