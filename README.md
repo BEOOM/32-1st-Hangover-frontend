@@ -42,3 +42,6 @@ date: 2022.04.25
 2. Nav 드롭다운 메뉴 구현 및 링크 설정
 3. 카드 리스트 컴포넌트 생성  - 받은 데이터의 조건에 따른 CSS 변경
 
+---
+![](https://velog.velcdn.com/images/beom_pie/post/e8d3c676-feb9-46f3-a816-6fcf6894fee6/image.png)
+
