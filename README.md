@@ -47,14 +47,14 @@ date: 2022.04.25
 
 1. 조건에 따른 CSS 적용
 
-<center><img src="https://velog.velcdn.com/images/beom_pie/post/e8d3c676-feb9-46f3-a816-6fcf6894fee6/image.png" width="500" height="800"></center>
+<img src="https://velog.velcdn.com/images/beom_pie/post/e8d3c676-feb9-46f3-a816-6fcf6894fee6/image.png" width="500" height="800">
 제품 리스트 페이지에서 제품에 대한 컴포넌트에 대한 CSS 적용을 받아온 데이터에 리뷰가 있을 경우 하단에 CSS가 변경되어 적용되며 없을경우 Null 값으로 처리하였습니다
 
 CSS를 적용할 때 항상 어떻게 복합적으로 다르게 적용할 수 있을까 고민했었는데 새로운 방식을 알 수 있었습니다
 
 2. 마우스 이벤트에 따른 CSS 적용
 
-![](https://velog.velcdn.com/images/beom_pie/post/ca61ffc8-623c-404d-ab31-1fa579dec777/image.png)
+<img src="https://velog.velcdn.com/images/beom_pie/post/ca61ffc8-623c-404d-ab31-1fa579dec777/image.png" width="500" height="800">
 
 카드 컴포넌트에 마우스를 올렸을 때 텍스트박스와 상품이미지에  CSS 효과를 적용하였습니다
 부모안에 있는 자식요소는 CSS 효과를 같이 주면 동시에 움직이는 효과르 줄 수 있다는 것을 배웠습니다
@@ -62,7 +62,7 @@ CSS를 적용할 때 항상 어떻게 복합적으로 다르게 적용할 수 �
 
 3. Nav바 드롭다운 메뉴 및 링크 연결
 
-![](https://velog.velcdn.com/images/beom_pie/post/56d3862f-8d7e-4971-b1f2-8c4ccc2f9211/image.png)
+<img src="https://velog.velcdn.com/images/beom_pie/post/56d3862f-8d7e-4971-b1f2-8c4ccc2f9211/image.png" width="500" height="800">
 
 ![](https://velog.velcdn.com/images/beom_pie/post/15b1da65-2ec3-4960-8e50-80fdcdd2427f/image.png)
 
