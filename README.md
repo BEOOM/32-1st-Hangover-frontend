@@ -54,10 +54,12 @@ CSS를 적용할 때 항상 어떻게 복합적으로 다르게 적용할 수 �
 2. 마우스 이벤트에 따른 CSS 적용
 ![](https://velog.velcdn.com/images/beom_pie/post/ca61ffc8-623c-404d-ab31-1fa579dec777/image.png)
 카드 컴포넌트에 마우스를 올렸을 때 텍스트박스와 상품이미지에  CSS 효과를 적용하였습니다
-부모안에 있는 자식요소는 CSS 효과를 같이 주면 동시에 움직이는 효과르 줄 수 있다는 것을 배웠습니다
+부모안에 있는 자식요소는 CSS 효과를 같이 주면 동시에 움직이는 효과를 줄 수 있다는 것을 배웠습니다
 
 
 3. Nav바 드롭다운 메뉴 및 링크 연결
+![](https://velog.velcdn.com/images/beom_pie/post/56d3862f-8d7e-4971-b1f2-8c4ccc2f9211/image.png)
+![](https://velog.velcdn.com/images/beom_pie/post/bd83f224-ca9d-4679-9943-2ba32a59ba98/image.png)
 
 Nav바에서 클릭 시 드롭다운 메뉴가 생성되며 이벤트로 상승하는 효과를 주는 CSS를 적용하였습니다
 
